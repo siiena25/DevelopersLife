@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevelopersLife</string>
+    <string name="developers_life">Developers Life</string>
+    <string name="example_text">Просто самый обычный текст, а что вы хотели?</string>
+</resources>
